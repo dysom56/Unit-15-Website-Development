@@ -15,5 +15,3 @@ To install the project, follow these steps:
 
 ## License
 License
-
--[Go to Custom Heading](#custom-anchor)
