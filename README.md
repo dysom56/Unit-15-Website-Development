@@ -13,4 +13,7 @@ Welcome to my project! This README file explains everything you need to know.
 ## Installation
 To install the project, follow these steps:
 
+## License
+License
+
 -[Go to Custom Heading](#custom-anchor)
