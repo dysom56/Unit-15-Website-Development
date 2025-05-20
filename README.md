@@ -1,14 +1,18 @@
 # Unit 15 Website Development
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Design Documentation
+Wireframes:
+![image](https://github.com/user-attachments/assets/9df8185d-4c2d-47b6-88a1-20c74f23afc2)
 
-## Introduction
-Welcome to my project! This README file explains everything you need to know.
+User Flow Diagram:
+![image](https://github.com/user-attachments/assets/51c9dd9b-d105-47b6-b7f8-029bda4333f6)
+
+The client wants a website with five sections, including a company profile, profiles of existing trainee web developers,
+job specifications and required qualifications, an online application form, and links to website development courses. 
+I will achieve this by creating five pages with a similar look and making the company profile the home page. This way
+people looking for jobs can get an idea of what the company is about and see if they would want to work there.
+
+
 
 ## Installation
 To install the project, follow these steps:
