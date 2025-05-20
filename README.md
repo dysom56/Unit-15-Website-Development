@@ -12,10 +12,13 @@ job specifications and required qualifications, an online application form, and 
 I will achieve this by creating five pages with a similar look and making the company profile the home page. This way
 people looking for jobs can get an idea of what the company is about and see if they would want to work there.
 
+Colour schemes and typography:
+I have decided to go with a black, white and grey colour scheme as it is very clean and professional, and the colours complement each other well.
+
+## Development Justification
 
 
-## Installation
-To install the project, follow these steps:
+## Testing Documentation
 
-## License
-License
+  
+## Evaluation and Improvements
