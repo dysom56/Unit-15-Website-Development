@@ -13,7 +13,9 @@ I will achieve this by creating five pages with a similar look and making the co
 people looking for jobs can get an idea of what the company is about and see if they would want to work there.
 
 Colour schemes and typography:
-I have decided to go with a black, white and grey colour scheme as it is very clean and professional, and the colours complement each other well.
+I have decided to go with a black, white and grey colour scheme as it is very clean and professional, and the colours 
+complement each other well. For typography, I decided to make the titles have a bigger font than the text under it so
+that it stand out more. This allows for easier understanding of the page they are on and has better readability.
 
 ## Development Justification
 
