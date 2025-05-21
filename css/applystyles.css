@@ -1,3 +1,21 @@
 .form-inline {
     text-align: center;
 }
+
+footer {
+    margin-top: 262px;
+}
+
+.h1 {
+	font-size: 50px;
+	padding-top: 25px;
+	text-align: center;
+}
+
+.col-md-3 {
+	text-align: center;
+}
+
+#submitBtn {
+	text-align: center;
+}
