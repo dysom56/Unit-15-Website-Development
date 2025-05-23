@@ -18,14 +18,26 @@ complement each other well. For typography, I decided to make the titles have a 
 that it stand out more. This allows for easier understanding of the page they are on and has better readability.
 
 ## Development Justification
-Evaluation of Design & Optimised Website:
-
+Evaluation of Design & Website:
+I believe the website meets the client requirments to a high standard. I think this because the website appeals to the
+target audience as the first page you see describes the company and its origins, this will help in increasing job
+applications to the company. It also helps people who might want to work at the company but don't have the qualifications
+for it, the this was done is by adding the courses page that was part of the client requirements. This can increase the 
+site and company credibility as it shows that the company wants to hire people and is willing to help people without
+any qualifications gain important skills.
 
 Demonstration of Individual Repsonsibility & Creativity:
-
+I managed the project independently by creating a plan of how I was going to create the website. The first thing I did 
+was create the file and folder structure. I then saved everything I need such as images that were given at the start of
+the assignment. Then I started working on one page of the website at a time as to not overwhelm myself with multiple
+different tasks at the same time. Once I had finished all the pages I made some slight adjustments to them to fix some
+slight issues that they had.
 
 Review of Client Requirements:
-
+I think the final product matches the initial brief well as I designed the website target audience to what was requested,
+which was people who have qualifications and completed courses that now are looking for web developer jobs. All the pages 
+that were requested such as a company profile, trainee web dev profiles, job specifications, online application forms, and
+link to web dev courses have been made and all match what was asked.
 
 ## Testing Documentation
 Test Plans:
@@ -64,10 +76,19 @@ Test Cases and Results:
   
 ## Evaluation and Improvements
 Final Evaluation:
+Strengths -
+- Navigating the site is quite easy as all the buttons are at the top of the screen which is very convenient and is a commonly used placement.
+- The modals are very easy to close out of if you accidently click on them as there is three methods of closing them.
 
+Weaknesses -
+- The typography and readibility of the site isn't very good as most of the text doesn't have good spacing and is all one big paragraph which can make it easy to lose track of where you were when reading.
+- The footer doesn't look that good and is in a strange place on the online application page, it is also limited in functionality.
 
 Potential Future Improvements:
+Some future improvments that could be made would include, making sure the typography of the website is better, making 
+sure everything scales well on all screens, and improving the footer looks and functionality.
 
-
-Peer and Tutor Feedback Responses:
-
+Improvements such as typography would make people stay on the website longer as they would be able to understand what 
+they are doing and would also make the client happier as there website will be very easy to navigate. Making sure 
+everything scales well on all screens is very important as some people on mobile devices might not want to stay on 
+the sight as they can't navigate it properly or because it simply looks worse than other sites on mobile.
