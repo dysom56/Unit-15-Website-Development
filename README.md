@@ -18,9 +18,49 @@ complement each other well. For typography, I decided to make the titles have a 
 that it stand out more. This allows for easier understanding of the page they are on and has better readability.
 
 ## Development Justification
+Evaluation of Design & Optimised Website:
+
+
+Demonstration of Individual Repsonsibility & Creativity:
+
+
+Review of Client Requirements:
 
 
 ## Testing Documentation
+Test Plans:
+| Test No. | Test Type | Test | Expected Result | Actual Result |
+| --- | --- | --- | --- | --- |
+| 1 | Functionality | Do the navigation buttons work? | | |
+| 2 | Functionality | Does the privacy modal in the footer work? | | |
+| 3 | Functionality | Can you close the privacy modal? | | |
+| 4 | Functionality | Do the modals for the trainee web developers? | | |
+| 5 | Functionality | Can you close the modals for the developers? | | |
+| 6 | Functionality | Does the phone number input only accept numbers? | | |
+| 7 | Functionality | Do all the buttons on the courses page lead you to the correct course? | | |
+| 8 | Functionality | Do the courses and apply button on the main page lead you to their corresponding pages? | | |
+
+Test Cases and Results:
+| Test No. | Test Type | Test | Expected Result | Actual Result |
+| --- | --- | --- | --- | --- |
+| 1 | Functionality | Do the navigation buttons work? | All navigation buttons work fine. | All navigation buttons work fine. |
+| 2 | Functionality | Does the privacy modal in the footer work? | The modal works every time you click it. | The modal works every time you click it. |
+| 3 | Functionality | Can you close the privacy modal? | You can close it by pressing either the X at the top right or the "OK" button at the bottom right. | You can close it by pressing either the X at the top right or the "OK" button at the bottom right. |
+| 4 | Functionality | Do the modals for the trainee web developers? | All three modals open when you click them. | All three modals open when you click them. |
+| 5 | Functionality | Can you close the modals for the developers? | You can close them by pressing either the X at the top right or the "OK" button at the bottom right. | You can close them by pressing either the X at the top right or the "OK" button at the bottom right. |
+| 6 | Functionality | Does the phone number input only accept numbers? | The phone number input does only take numbers. | The phone number input does only take numbers. |
+| 7 | Functionality | Do all the buttons on the courses page lead you to the correct course? | All the buttons in the list of courses bring you to their corresponding course. | All the buttons in the list of courses bring you to their corresponding course. |
+| 8 | Functionality | Do the courses and apply button on the main page lead you to their corresponding pages? | The two buttons on the main page bring you to the correct pages. | The two buttons on the main page bring you to the correct pages. |
+
+Usability Testing Feedback:
 
   
 ## Evaluation and Improvements
+Final Evaluation:
+
+
+Potential Future Improvements:
+
+
+Peer and Tutor Feedback Responses:
+
