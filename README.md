@@ -39,6 +39,11 @@ Test Plans:
 | 6 | Functionality | Does the phone number input only accept numbers? | | |
 | 7 | Functionality | Do all the buttons on the courses page lead you to the correct course? | | |
 | 8 | Functionality | Do the courses and apply button on the main page lead you to their corresponding pages? | | |
+| 9 | Usability | Is the site easy to navigate? | | |
+| 10 | Usability | Is it easy to understand the site and the idea behind each page? | | |
+| 11 | Compatibility | Does the site function well on mobile? | | |
+| 12 | Compatibility | Does the sites elements scale properly on smaller screens? | | |
+| 13 | Compatibility | Does the text inside elements look readable? | | |
 
 Test Cases and Results:
 | Test No. | Test Type | Test | Expected Result | Actual Result |
@@ -51,9 +56,11 @@ Test Cases and Results:
 | 6 | Functionality | Does the phone number input only accept numbers? | The phone number input does only take numbers. | The phone number input does only take numbers. |
 | 7 | Functionality | Do all the buttons on the courses page lead you to the correct course? | All the buttons in the list of courses bring you to their corresponding course. | All the buttons in the list of courses bring you to their corresponding course. |
 | 8 | Functionality | Do the courses and apply button on the main page lead you to their corresponding pages? | The two buttons on the main page bring you to the correct pages. | The two buttons on the main page bring you to the correct pages. |
-
-Usability Testing Feedback:
-
+| 9 | Usability | Is the site easy to navigate? | The site is easy to navigate using the navigation bar at the top of the screen. | The site is easy to navigate using the navigation bar at the top of the screen. |
+| 10 | Usability | Is it easy to understand the site and the idea behind each page? | It is easy to understand the purpose of each page based on the title and the features of them. | It is easy to understand the purpose of each page based on the title and the features of them. |
+| 11 | Compatibility | Does the site function well on mobile? | The site functions well on mobile and is usable. | The site functions well on mobile and is usable. |
+| 12 | Compatibility | Do the sites elements scale properly on smaller screens? | All the elements scale well on mobile and other smaller screens. | All elements scale well except modals and some of the boxes on the home page. |
+| 13 | Compatibility | Does the text inside elements look readable on smaller screens? | The text inside elements looks readable on smaller screens. | The text inside elements on doesn't really look readable on smaller screens. |
   
 ## Evaluation and Improvements
 Final Evaluation:
